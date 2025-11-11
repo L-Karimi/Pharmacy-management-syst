@@ -17,11 +17,8 @@
 13. Stock notifications
 
 # Installation
-- Watch the installation process on youtube below.
+Follow these steps to install the application.
 
-[![youtube thumbnail](https://img.youtube.com/vi/nhMaD6MhJzU/0.jpg)](https://www.youtube.com/watch?v=nhMaD6MhJzU) 
-
- Or Follow these steps to install the application.
 1. Clone the Repository
 ```
 git clone https://github.com/MusheAbdulHakim/Pharmacy-management-system.git
@@ -80,7 +77,6 @@ php artisan serve
 ```
 http://127.0.0.1:8000
 ```
-12. Enjoy and make sure to star the repo :).Report bugs,features and also send your pull requests.
 
 # admin login credentials
 
@@ -89,7 +85,6 @@ http://127.0.0.1:8000
  password: admin
 ```
 
-Theme: https://themeforest.net/item/doccure-doctor-appointment-booking-system-bootstrap-angular-template/28201296
 
 # Usage
 
